@@ -1,146 +1,105 @@
-<!-- ======================================== -->
-<!--        493nt47 — CYBER DASHBOARD         -->
-<!-- ======================================== -->
+## Hi there 👋
 
-<div align="center">
+<!--
+**saad4elh7/saad4elh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<!-- ===== NEO ASCII HEADER ===== -->
-<pre>
-███╗   ██╗███████╗ ██████╗ 
-████╗  ██║██╔════╝██╔═══██╗
-██╔██╗ ██║█████╗  ██║   ██║
-██║╚██╗██║██╔══╝  ██║   ██║
-██║ ╚████║███████╗╚██████╔╝
-╚═╝  ╚═══╝╚══════╝ ╚═════╝ 
+Here are some ideas to get you started:
 
-        493nt47
-</pre>
-
-<!-- ===== TYPING EFFECT ===== -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Wake+up+493nt47...;The+system+has+you...;Follow+the+purple+path...;SECOPS+%7C+PENTEST+%7C+PURPLE+TEAM" />
-
-</div>
-
----
-
-## 🧠 SYSTEM IDENTITY
-
-```bash
-> whoami
-
-493nt47 — Cybersecurity Engineer
-Specialization: Pentest | SOC | Purple Team
-
-Mission:
-Exploit → Analyze → Defend → Repeat
-```
-
----
-
-## ⚡ ATTACK SIMULATION COUNTER (LIVE STYLE)
-
-<div align="center">
-
-<img src="https://svg-banners.vercel.app/api?type=origin&text1=ATTACK%20SIMULATIONS&text2=00127&width=800&height=120" />
-
-</div>
-
-<!-- Fake dynamic counter feeling -->
-```yaml
-Last Run:        SUCCESS
-Simulations:     127 (+3 today)
-Detection Gain:  +82%
-Status:          ACTIVE
-```
-
----
-
-## 🟣 NEO MESSAGE
-
-```bash
-> cat message.txt
-
-"You take the blue pill, the story ends.
-You take the purple pill, you stay in security,
-and I show you how deep the attack surface goes."
-```
-
----
-
-## 📊 CYBER METRICS
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" />
-
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00FF9C&fire=00FF9C" />
-
-</div>
-
----
-
-## 🧠 SKILL MATRIX
-
-```text
-OFFENSE        █████████░ 90%
-DEFENSE        ████████░░ 85%
-AUTOMATION     ███████░░░ 78%
-THREAT INTEL   ███████░░░ 75%
-IR             ████████░░ 82%
-```
-
----
-
-## 🔥 ACTIVITY HEATMAP
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+<h1 align="center">Hi 👋, I'm Saad Allah El Hamri</h1>
+<h3 align="center">🛡️ Cybersecurity Engineer | SOC Analyst | Purple Team Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&bg_color=0d1117&color=00FF9C&line=00FF9C&point=ffffff&hide_border=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Securing+Infrastructures;Hunting+Threats;Building+Resilience;Purple+Team+Operator" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🛠️ TECH STACK
-
-**Offense**
-`Nmap` `Metasploit` `Burp` `Impacket` `BloodHound`
-
-**Defense**
-`Wazuh` `ELK` `Splunk` `Sigma` `Suricata`
-
-**Engineering**
-`Python` `Bash` `PowerShell` `Django`
+### 🛡️ About Me
+- 🎓 **Ingénieur d'État en Informatique** specializing in **Cybersecurity (SOC & Cyber-Resilience)**.
+- 🏢 Contributing to **Cyber Resilience strategies** (NIST CSF v2.0, NIS2, ISO 27001) and **SOC operations**.
+- 🐛 Passionate about **Purple Teaming**, simulating advanced attacks (RBCD, DCShadow) to harden Active Directory environments.
+- 🛠️ Experienced in **SIEM deployment (Wazuh/ELK)**, vulnerability management, and security automation.
+- 🏆 Certified: **CompTIA Security+**, **Cisco CyberOps**, **Ethical Hacker**.
+- 🌍 Based in **Casablanca, Morocco**.
 
 ---
 
-## 🚀 PROJECTS
+### 🛠️ Tech Stack & Arsenal
 
-```bash
-> ls ./projects
+**Governance & Run:**
+![NIST CSF](https://img.shields.io/badge/NIST_CSF-v2.0-blue?style=for-the-badge)
+![NIS2](https://img.shields.io/badge/NIS2-Compliance-green?style=for-the-badge)
+![ISO27001](https://img.shields.io/badge/ISO-27001-orange?style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-Scrum-0052CC?style=for-the-badge&logo=jira)
 
-purple-lab        → Active Directory attack lab
-bas-toolkit       → Breach simulation engine
-sigma-rules       → Detection rules
-soc-automation    → Playbooks & IR automation
-```
+**SOC & Monitoring:**
+![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-000000?style=for-the-badge)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-Elastic-005571?style=for-the-badge&logo=elastic-stack)
+![Splunk](https://img.shields.io/badge/Splunk-SIEM-000000?style=for-the-badge&logo=splunk)
+
+**Offensive Security & Tools:**
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-Scanner-2E3138?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-Framework-2E3138?style=for-the-badge)
+
+**Systems & Scripting:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 🌐 CONNECT
+### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-00FF9C?style=for-the-badge&logo=linkedin&logoColor=black"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-00FF9C?style=for-the-badge&logo=gmail&logoColor=black"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </p>
 
 ---
 
+### 🚀 Featured Projects
+
+- 🔐 **[Active Directory Purple Team Lab]**: Hardened AD infrastructure using Wazuh & ELK, simulating advanced attacks (SQLi, RBCD, DCShadow) to evaluate defensive controls.
+- 🌐 **[ESITH Copy Center]**: Secure web application (Django/Python) with implemented protections against SQLi and XSS, validated through Burp Suite pentesting.
+- ⚙️ **[RBCD Attack Automation Tool]**: Educational tool to reproduce Resource-Based Constrained Delegation attack paths for defensive research.
+
+---
+
+### 📫 Let's Connect!
+
 <p align="center">
-<pre>
-root@493nt47:~# exit
-● connection terminated — stay dangerous
-</pre>
+  <a href="https://linkedin.com/in/saad-allah-el-hamri">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:saadallahelh2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://tryhackme.com/p/your_thm_profile">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+  </a>
+  <a href="https://www.hackthebox.com/profile/your_htb_profile">
+    <img src="https://img.shields.io/badge/HackTheBox-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="HackTheBox" />
+  </a>
+</p>
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&color=00FF00&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
