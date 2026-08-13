@@ -1,116 +1,146 @@
 <!-- ======================================== -->
-<!--      SAAD EL HAMRI — CYBERSECURITY       -->
+<!--        493nt47 — CYBER DASHBOARD         -->
 <!-- ======================================== -->
 
-<h1 align="center">⚡ Saad El Hamri</h1>
-<h3 align="center">Cybersecurity Engineer | Pentester | SOC & Purple Team</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=Offensive+Security+%2B+Defense;SOC+Analyst+%7C+Threat+Hunter;Building+Cyber+Resilience;CompTIA+Security%2B+Certified" />
-</p>
+<!-- ===== NEO ASCII HEADER ===== -->
+<pre>
+███╗   ██╗███████╗ ██████╗ 
+████╗  ██║██╔════╝██╔═══██╗
+██╔██╗ ██║█████╗  ██║   ██║
+██║╚██╗██║██╔══╝  ██║   ██║
+██║ ╚████║███████╗╚██████╔╝
+╚═╝  ╚═══╝╚══════╝ ╚═════╝ 
+
+        493nt47
+</pre>
+
+<!-- ===== TYPING EFFECT ===== -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Wake+up+493nt47...;The+system+has+you...;Follow+the+purple+path...;SECOPS+%7C+PENTEST+%7C+PURPLE+TEAM" />
+
+</div>
 
 ---
 
-## 🧠 Who I Am
+## 🧠 SYSTEM IDENTITY
 
 ```bash
 > whoami
 
-Cybersecurity Engineer specialized in:
-- Penetration Testing (Web / AD / Infra)
-- SOC Operations & Threat Detection
-- Cyber Resilience & NIS2 alignment
+493nt47 — Cybersecurity Engineer
+Specialization: Pentest | SOC | Purple Team
 
 Mission:
-Break systems → Understand weaknesses → Build stronger defenses
+Exploit → Analyze → Defend → Repeat
 ```
 
 ---
 
-## ⚡ What I Bring
+## ⚡ ATTACK SIMULATION COUNTER (LIVE STYLE)
 
-- 🔴 Offensive mindset (real attack techniques)
-- 🔵 Defensive engineering (SIEM, detection, IR)
-- 🟣 Purple Team approach (continuous improvement)
-- 📊 Business-aligned security (NIST, ISO 27001, NIS2)
+<div align="center">
 
----
+<img src="https://svg-banners.vercel.app/api?type=origin&text1=ATTACK%20SIMULATIONS&text2=00127&width=800&height=120" />
 
-## 🛠️ Tech Stack
+</div>
 
-### 🔴 Offensive
-`Nmap` `Metasploit` `Burp Suite` `Impacket` `BloodHound`  
-`SQLi` `XSS` `AD Attacks` `Kerberoasting` `RBCD`
-
-### 🔵 Defensive
-`Wazuh` `ELK` `Splunk` `Suricata` `Sigma`  
-`EDR` `SIEM` `Threat Hunting` `Incident Response`
-
-### ⚙️ Engineering
-`Python` `Bash` `PowerShell` `Django` `Docker`
-
----
-
-## 🚀 Featured Projects
-
-### 🟣 Purple Team Lab
-> Full Active Directory attack & detection environment  
-- Simulates real-world attacks (Kerberos, lateral movement)
-- Detection rules mapped to MITRE ATT&CK
-- SOC monitoring with Wazuh + ELK
-
----
-
-### 🧪 BAS Toolkit
-> Breach & Attack Simulation framework  
-- Automated attack scenarios
-- Measures detection & response efficiency
-- Improves SOC performance (MTTD / MTTR)
-
----
-
-### 📊 NIS2 Security Platform
-> Cyber resilience assessment tool  
-- Based on NIST CSF v2 + NIS2
-- Maturity scoring system
-- PDF reporting for organizations
-
----
-
-## 📈 Cyber Stats
-
+<!-- Fake dynamic counter feeling -->
 ```yaml
-Attack Simulations: 120+
-Detection Improvement: +80%
-SOC Automation: Active
-Focus: SOC | Pentest | GRC
+Last Run:        SUCCESS
+Simulations:     127 (+3 today)
+Detection Gain:  +82%
+Status:          ACTIVE
 ```
 
 ---
 
-## 🌐 Platforms
+## 🟣 NEO MESSAGE
+
+```bash
+> cat message.txt
+
+"You take the blue pill, the story ends.
+You take the purple pill, you stay in security,
+and I show you how deep the attack surface goes."
+```
+
+---
+
+## 📊 CYBER METRICS
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" />
+
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00FF9C&fire=00FF9C" />
+
+</div>
+
+---
+
+## 🧠 SKILL MATRIX
+
+```text
+OFFENSE        █████████░ 90%
+DEFENSE        ████████░░ 85%
+AUTOMATION     ███████░░░ 78%
+THREAT INTEL   ███████░░░ 75%
+IR             ████████░░ 82%
+```
+
+---
+
+## 🔥 ACTIVITY HEATMAP
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HackTheBox-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
-  <img src="https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&bg_color=0d1117&color=00FF9C&line=00FF9C&point=ffffff&hide_border=true" />
 </p>
 
 ---
 
-## 🤝 Connect
+## 🛠️ TECH STACK
+
+**Offense**
+`Nmap` `Metasploit` `Burp` `Impacket` `BloodHound`
+
+**Defense**
+`Wazuh` `ELK` `Splunk` `Sigma` `Suricata`
+
+**Engineering**
+`Python` `Bash` `PowerShell` `Django`
+
+---
+
+## 🚀 PROJECTS
+
+```bash
+> ls ./projects
+
+purple-lab        → Active Directory attack lab
+bas-toolkit       → Breach simulation engine
+sigma-rules       → Detection rules
+soc-automation    → Playbooks & IR automation
+```
+
+---
+
+## 🌐 CONNECT
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-6E40C9?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-00FF9C?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-6E40C9?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-00FF9C?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Security is not a tool — it's a mindset.”</i>
+<pre>
+root@493nt47:~# exit
+● connection terminated — stay dangerous
+</pre>
 </p>
