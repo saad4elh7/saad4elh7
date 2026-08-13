@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Saad Allah El Hamri</h1>
+<h1 align="center">Hi 👋, I'm Saad aka 493nt47</h1>
 <h3 align="center">🛡️ Cybersecurity Engineer | SOC Analyst | Purple Team Enthusiast</h3>
 
 <p align="center">
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ---
 
 ### 🛡️ About Me
-- 🎓 **Ingénieur d'État en Informatique** specializing in **Cybersecurity (SOC & Cyber-Resilience)**.
+- 🎓 **State Engenieer in CS** specializing in **Cybersecurity** i like **Break into things**.
 - 🏢 Contributing to **Cyber Resilience strategies** (NIST CSF v2.0, NIS2, ISO 27001) and **SOC operations**.
 - 🐛 Passionate about **Purple Teaming**, simulating advanced attacks (RBCD, DCShadow) to harden Active Directory environments.
 - 🛠️ Experienced in **SIEM deployment (Wazuh/ELK)**, vulnerability management, and security automation.
