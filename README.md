@@ -1,40 +1,48 @@
 <div align="center">
 
-# 🟢 NODE: 493NT47 // OPERATOR PROTOCOL
-### `IDENTITY: SAAD ALLAH EL HAMRI`
+# 🌌 NODE // 493NT47
+### `IDENTITY // SAAD ALLAH EL HAMRI`
 
-<!-- NATIVELY SUPPORTED CYBERPUNK TYPING SIMULATION -->
-<img src="https://herokuapp.com..." alt="Matrix HUD Terminal" />
+<!-- LIVE ANIMATED TERMINAL OVERLAY -->
+<a href="https://git.io"><img src="https://demolab.com..." alt="Matrix Script Operator Terminal" /></a>
 
 </div>
 
 ```text
-===================================================================================
-[+] TELEMETRY STATUS: ONLINE   //   NODE: SAAD4ELH7   //   THREAT LEVEL: CRITICAL
-===================================================================================
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│ OPERATOR METADATA                                                              │
+├─────────────────────────────────────────────────────────────────────────────────┤
+│ [+] ID         : Saad Allah El Hamri (alias: 493nt47)                           │
+│ [+] ROLE       : State Engineer in CS // Purple Team Architect                  │
+│ [+] COORDINATES: 32.48° N / 5.93° W                                             │
+│ [+] STRATEGY   : "Break it to find the log. Find the log to fortify the nexus." │
+└─────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ```yaml
 ---
-OPERATOR_METADATA:
-  identity: "Saad Allah El Hamri"
-  alias: "493nt47"
-  specialization: "State Engineer in CS // Purple Team Architect"
-  location: "32.48° N / 5.93° W"
-  core_directive: "Break structures to capture telemetry. Fortify the loop."
-
 TACTICAL_LOADOUT:
-  offensive: [ "RBCD Attack Paths", "DCShadow Injection", "Active Directory Fuzzing" ]
-  defensive: [ "Wazuh SIEM Deployments", "ELK Stack Data Pipelines", "Splunk Core" ]
-  governance: [ "NIST CSF v2.0 Architecture", "NIS2 Directives", "ISO 27001 Mapping" ]
+  OFFENSIVE_EMULATION:
+    - "Resource-Based Constrained Delegation (RBCD) Exploitation"
+    - "DCShadow Active Directory Synchronization Hijacking"
+    - "Kerberoasting & Domain Controller Ticket Manipulation"
+  DEFENSIVE_ORCHESTRATION:
+    - "Wazuh SIEM Rules Engine & Detection Engineering"
+    - "ELK Stack Aggregations & Telemetry Diagnostics"
+    - "Splunk Enterprise Incident Triaging Pipeline"
+  GOVERNANCE_POSTURE:
+    - "NIST CSF v2.0 Compliance Integration Frameworks"
+    - "NIS2 Resiliency Directives Architecture"
+    - "ISO 27001 Security Standard Mapping Modules"
 ```
 
 ```text
-[+] LOADING ARSENAL MODULES... READY
+[+] PARSING ARSENAL METRICS... DONE
 ```
 
 <div align="center">
 
+<!-- GLOWING TECH STACK BULLETS -->
 ![NIST CSF](https://shields.io)
 ![NIS2](https://shields.io)
 ![ISO27001](https://shields.io)
@@ -47,59 +55,58 @@ TACTICAL_LOADOUT:
 </div>
 
 ```text
-[+] COMPILING ACTIVE PROJECT REPOSITORIES...
+[+] FETCHING DEPLOYED CODEBASE REPOSITORIES...
 ```
 
 ```yaml
 ---
-PROJECT_ALPHA:
-  target: "Active Directory Purple Team Lab"
-  telemetry: "Hardened large-scale enterprise AD directory setups."
-  emulation: "Executed RBCD and DCShadow attacks to test SIEM log ingestion gaps."
-  stack: "Wazuh Engine // ELK Stack Pipeline"
+PROJECT_SHOWCASE:
+  - SYSTEM: "Active Directory Purple Team Lab"
+    METRICS: "Hardened large-scale enterprise AD directory setups."
+    TACTICS: "Executed RBCD and DCShadow attacks to test SIEM log ingestion gaps."
+    STACK: "Wazuh Engine // ELK Stack Data Ingestion Pipelines"
 
-PROJECT_BRAVO:
-  target: "RBCD Attack Automation Tool"
-  telemetry: "Programmatic offensive exploitation script built for defense research."
-  utility: "Allows Blue Teams to instantly test and validate cross-delegation flaws."
-  engine: "Python // PowerShell Core Runtime"
+  - SYSTEM: "RBCD Attack Automation Tool"
+    METRICS: "Programmatic offensive exploitation script built for defense research."
+    TACTICS: "Allows Blue Teams to instantly test and validate cross-delegation flaws."
+    STACK: "Python // PowerShell Core Framework"
 
-PROJECT_CHARLIE:
-  target: "ESITH Copy Center Secure Stack"
-  telemetry: "Engineered high-security application framework protecting against OWASP Top 10."
-  audit: "Validated defenses manually using explicit proxy testing scripts."
-  framework: "Django Architecture // Burp Suite Vetting"
+  - SYSTEM: "ESITH Copy Center Secure Stack"
+    METRICS: "Engineered high-security application framework protecting against OWASP Top 10."
+    TACTICS: "Validated defenses manually using explicit proxy testing scripts."
+    STACK: "Django Architecture // Burp Suite Vetting"
 ```
 
 ```text
-[+] SYNCHRONIZING CENTRAL ACTIVITY GRAPH...
+[+] SYNCHRONIZING REALTIME PROFILE METRICS...
 ```
 
 <div align="center">
 
-<!-- VERIFIED MATRIX SPECTRUM PLUGINS FOR SAAD4ELH7 -->
-<img src="https://vercel.app" alt="Matrix Telemetry" width="48%" />
-<img src="https://herokuapp.com" alt="Matrix Streak" width="48%" />
+<!-- CYBER MATRIX TELEMETRY GRAPHICS -->
+<img src="https://vercel.app" alt="Matrix Telemetry Stats" width="49%" />
+<img src="https://herokuapp.com" alt="Matrix Streak Stats" width="49%" />
 
 </div>
 
 ```text
 ===================================================================================
-[+] SECURE CONNECTION NODE TERMINATED // PROD_SESSION_CLOSED
+[+] ACTIVE COMS CHANNEL STABLE // PROD_NODE_ONLINE
 ===================================================================================
 ```
 
 <div align="center">
 
 <samp>
-  <a href="https://linkedin.com">[ CONNECT_LINKEDIN ]</a> &nbsp;&bull;&nbsp; 
-  <a href="mailto:saadallahelh2002@gmail.com">[ SEND_SECURE_MAIL ]</a> &nbsp;&bull;&nbsp; 
-  <a href="https://tryhackme.com">[ THM_PROFILE ]</a> &nbsp;&bull;&nbsp; 
-  <a href="https://hackthebox.com">[ HTB_PROFILE ]</a>
+  <a href="https://linkedin.com">[ LINKEDIN_NODE ]</a> &nbsp;&bull;&nbsp; 
+  <a href="mailto:saadallahelh2002@gmail.com">[ EMAIL_ENDPOINT ]</a> &nbsp;&bull;&nbsp; 
+  <a href="https://tryhackme.com">[ TRYHACKME ]</a> &nbsp;&bull;&nbsp; 
+  <a href="https://hackthebox.com">[ HACKTHEBOX ]</a>
 </samp>
 
 <br><br>
 
-<img src="https://komarev.com" alt="Telemetry Vitals" />
+<!-- LIVE SYSTEM VISIT VISUAL COUNTER -->
+<img src="https://komarev.com" alt="System Traffic Vitals" />
 
 </div>
